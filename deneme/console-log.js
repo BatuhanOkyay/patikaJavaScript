@@ -1,0 +1,1 @@
+console.log("buraya ne yazarsak konsolda o gözükür");
